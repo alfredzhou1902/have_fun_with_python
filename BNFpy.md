@@ -68,5 +68,5 @@ print(orTest(a=None,b=[]))
 
 ```
 #### return的这个性质之前没有注意。经过上述测试，用return可以得到一些有趣的结果，例子灵感来自狗书作者（@Miguel Grinberg）的代码。
-
+附上狗书作者的2017年最新的教程视频[地址](https://www.youtube.com/watch?v=mLOaSBP0X4Q)
 2. etc.
